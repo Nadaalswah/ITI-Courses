@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697830781 source:e:\c course\day 7\emp menu with pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+

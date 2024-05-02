@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697831253 source:e:\c course\day 6\emp menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+
+1697831253 source:e:\c course\labs\day 6\emp menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+
