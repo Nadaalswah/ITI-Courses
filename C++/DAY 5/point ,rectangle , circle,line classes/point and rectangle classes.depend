@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698926226 source:e:\c++ course\day 5\point and rectangle classes\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+
+1700562302 source:e:\c++ course\day 5\point ,rectangle , circle,line classes\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+
