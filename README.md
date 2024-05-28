@@ -7,3 +7,4 @@
  - Python
  - Linux
  - Spark
+ - Mete Heuristic algorithms
